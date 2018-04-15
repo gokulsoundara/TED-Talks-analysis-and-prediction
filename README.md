@@ -1,2 +1,2 @@
 # TEDTalks
-TED Talks Analysis - Project is on-going
+TED Talks Analysis - Project is on-going.. 
